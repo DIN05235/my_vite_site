@@ -14,6 +14,9 @@ export default function App() {
     // cleanup
     return () => window.removeEventListener("resize", handleResize);
   }, []);
+  useEffect(() => {
+    document.title = "HBD Oeii!!";
+  }, []);
   function handleClick() {
     cakeRef.current?.blowOut()
     setText("")
@@ -72,7 +75,7 @@ export default function App() {
                 margin: 0,
               }}
             >
-              ___
+              Oeii
             </h1>
         </div>
         <h1
