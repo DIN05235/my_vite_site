@@ -67,7 +67,7 @@ export default function App() {
         >
           <h1 style={{ margin: "0 0 1rem", fontSize: "2rem" }}> Happy Birthday! </h1>
           <p style={{ margin: 0, fontSize: "1.2rem" }}>
-            Hope all your wish came true naaa. <br></br>I'm right here with your kub 💖
+            Hope all your wishes came true naaa. <br></br>Always here for you kub 💖
           </p>
           <p>--Din--</p>
         </div>
